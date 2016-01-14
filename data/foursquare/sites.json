@@ -1,0 +1,3383 @@
+        {
+            "reasons": {
+                "count": 0,
+                "items": [
+                    {
+                        "reasonName": "globalInteractionReason",
+                        "summary": "Este lugar es popular",
+                        "type": "general"
+                    }
+                ]
+            },
+            "referralId": "e-0-518e833a498e47df2cc38f42-0",
+            "tips": [
+                {
+                    "canonicalUrl": "https://foursquare.com/item/522a8ae011d2ee21b5deaff1",
+                    "createdAt": 1378519776,
+                    "id": "522a8ae011d2ee21b5deaff1",
+                    "likes": {
+                        "count": 10,
+                        "groups": [],
+                        "summary": "10 gustan"
+                    },
+                    "logView": true,
+                    "text": "Awesome place at 33 street, good music, good people. Excellent. Service and very good prices. Don't miss out on trying the choripan!",
+                    "todo": {
+                        "count": 1
+                    },
+                    "type": "user",
+                    "user": {
+                        "firstName": "H\u00e5kan",
+                        "gender": "male",
+                        "id": "12139383",
+                        "lastName": "Ahlstedt",
+                        "photo": {
+                            "prefix": "https://irs3.4sqi.net/img/user/",
+                            "suffix": "/XJI0K1BQ0WLKLC34.jpg"
+                        }
+                    }
+                }
+            ],
+            "venue": {
+                "allowMenuUrlEdit": true,
+                "categories": [
+                    {
+                        "icon": {
+                            "prefix": "https://ss3.4sqi.net/img/categories_v2/nightlife/pub_",
+                            "suffix": ".png"
+                        },
+                        "id": "4bf58dd8d48988d116941735",
+                        "name": "Bar",
+                        "pluralName": "Bares",
+                        "primary": true,
+                        "shortName": "Bar"
+                    }
+                ],
+                "contact": {
+                    "facebook": "1407517599464112",
+                    "facebookName": "El Grifo Bar",
+                    "facebookUsername": "ElGrifoBar",
+                    "twitter": "elgrifo"
+                },
+                "hereNow": {
+                    "count": 0,
+                    "groups": [],
+                    "summary": "Nadie aqu\u00ed"
+                },
+                "hours": {
+                    "isOpen": false,
+                    "status": "Cerrado hasta la(s) 17:00, jueves"
+                },
+                "id": "518e833a498e47df2cc38f42",
+                "location": {
+                    "address": "Calle 33 #76-132",
+                    "cc": "CO",
+                    "city": "Medell\u00edn",
+                    "country": "Colombia",
+                    "formattedAddress": [
+                        "Calle 33 #76-132",
+                        "Medell\u00edn, Antioquia",
+                        "Colombia"
+                    ],
+                    "lat": 6.239020617574574,
+                    "lng": -75.5962747335434,
+                    "state": "Antioquia"
+                },
+                "name": "El Grifo Bar",
+                "photos": {
+                    "count": 149,
+                    "groups": []
+                },
+                "price": {
+                    "currency": "$",
+                    "message": "Moderado",
+                    "tier": 2
+                },
+                "rating": 8.9,
+                "ratingSignals": 93,
+                "specials": {
+                    "count": 0,
+                    "items": []
+                },
+                "stats": {
+                    "checkinsCount": 823,
+                    "tipCount": 21,
+                    "usersCount": 227
+                },
+                "storeId": "",
+                "venuePage": {
+                    "id": "58044517"
+                },
+                "verified": true
+            }
+        }
+        {
+            "reasons": {
+                "count": 0,
+                "items": [
+                    {
+                        "reasonName": "globalInteractionReason",
+                        "summary": "Este lugar es popular",
+                        "type": "general"
+                    }
+                ]
+            },
+            "referralId": "e-0-4d266c8a6e27a14399420524-1",
+            "tips": [
+                {
+                    "canonicalUrl": "https://foursquare.com/item/520738fd11d2786f1fa70e2d",
+                    "createdAt": 1376205053,
+                    "id": "520738fd11d2786f1fa70e2d",
+                    "likes": {
+                        "count": 4,
+                        "groups": [],
+                        "summary": "4 gustan"
+                    },
+                    "logView": true,
+                    "text": "La mejor banda!!! \ud83d\ude31\ud83d\ude31\ud83d\ude31",
+                    "todo": {
+                        "count": 0
+                    },
+                    "type": "user",
+                    "user": {
+                        "firstName": "Diana",
+                        "gender": "female",
+                        "id": "52125471",
+                        "lastName": "Ocampo L",
+                        "photo": {
+                            "prefix": "https://irs2.4sqi.net/img/user/",
+                            "suffix": "/32CUJZC2O5RJ30JN.jpg"
+                        }
+                    }
+                }
+            ],
+            "venue": {
+                "allowMenuUrlEdit": true,
+                "categories": [
+                    {
+                        "icon": {
+                            "prefix": "https://ss3.4sqi.net/img/categories_v2/nightlife/pub_",
+                            "suffix": ".png"
+                        },
+                        "id": "4bf58dd8d48988d116941735",
+                        "name": "Bar",
+                        "pluralName": "Bares",
+                        "primary": true,
+                        "shortName": "Bar"
+                    }
+                ],
+                "contact": {
+                    "formattedPhone": "+57 4 2040562",
+                    "phone": "+5742040562",
+                    "twitter": "trilogiabar"
+                },
+                "hereNow": {
+                    "count": 0,
+                    "groups": [],
+                    "summary": "Nadie aqu\u00ed"
+                },
+                "hours": {
+                    "isOpen": false
+                },
+                "id": "4d266c8a6e27a14399420524",
+                "location": {
+                    "address": "Kr 43G 24 - 08",
+                    "cc": "CO",
+                    "city": "Medell\u00edn",
+                    "country": "Colombia",
+                    "formattedAddress": [
+                        "Kr 43G 24 - 08",
+                        "Medell\u00edn, Antioquia",
+                        "Colombia"
+                    ],
+                    "lat": 6.2256404483257635,
+                    "lng": -75.57238493335386,
+                    "postalCode": "050021",
+                    "state": "Antioquia"
+                },
+                "name": "Trilogia Bar",
+                "photos": {
+                    "count": 119,
+                    "groups": []
+                },
+                "price": {
+                    "currency": "$",
+                    "message": "Moderado",
+                    "tier": 2
+                },
+                "rating": 9.1,
+                "ratingSignals": 96,
+                "specials": {
+                    "count": 0,
+                    "items": []
+                },
+                "stats": {
+                    "checkinsCount": 956,
+                    "tipCount": 30,
+                    "usersCount": 658
+                },
+                "url": "http://trilogiabar.com",
+                "verified": false
+            }
+        }
+        {
+            "reasons": {
+                "count": 0,
+                "items": [
+                    {
+                        "reasonName": "globalInteractionReason",
+                        "summary": "Este lugar es popular",
+                        "type": "general"
+                    }
+                ]
+            },
+            "referralId": "e-0-4b86b6e6f964a5201b9831e3-2",
+            "tips": [
+                {
+                    "canonicalUrl": "https://foursquare.com/item/51690913e4b0da0d08c77428",
+                    "createdAt": 1365838099,
+                    "id": "51690913e4b0da0d08c77428",
+                    "likes": {
+                        "count": 16,
+                        "groups": [],
+                        "summary": "16 gustan"
+                    },
+                    "logView": true,
+                    "text": "No haga como yo. No se tome 5 coca\u00ednas rusas seguidas. Qui\u00e9rase. Gracias.",
+                    "todo": {
+                        "count": 0
+                    },
+                    "type": "user",
+                    "user": {
+                        "firstName": "Andr\u00e9s",
+                        "gender": "male",
+                        "id": "11834510",
+                        "lastName": "Raigosa",
+                        "photo": {
+                            "prefix": "https://irs1.4sqi.net/img/user/",
+                            "suffix": "/11834510-YMSV5BLENN51UQ2E.jpg"
+                        }
+                    }
+                }
+            ],
+            "venue": {
+                "allowMenuUrlEdit": true,
+                "categories": [
+                    {
+                        "icon": {
+                            "prefix": "https://ss3.4sqi.net/img/categories_v2/nightlife/pub_",
+                            "suffix": ".png"
+                        },
+                        "id": "4bf58dd8d48988d116941735",
+                        "name": "Bar",
+                        "pluralName": "Bares",
+                        "primary": true,
+                        "shortName": "Bar"
+                    }
+                ],
+                "contact": {},
+                "hereNow": {
+                    "count": 0,
+                    "groups": [],
+                    "summary": "Nadie aqu\u00ed"
+                },
+                "hours": {
+                    "isOpen": false
+                },
+                "id": "4b86b6e6f964a5201b9831e3",
+                "location": {
+                    "address": "Cl 8 # 38",
+                    "cc": "CO",
+                    "city": "Medell\u00edn",
+                    "country": "Colombia",
+                    "crossStreet": "38",
+                    "formattedAddress": [
+                        "Cl 8 # 38 (38)",
+                        "Medell\u00edn, Antioquia",
+                        "Colombia"
+                    ],
+                    "lat": 6.207445073686627,
+                    "lng": -75.56819200515747,
+                    "state": "Antioquia"
+                },
+                "name": "La Octava",
+                "photos": {
+                    "count": 196,
+                    "groups": []
+                },
+                "price": {
+                    "currency": "$",
+                    "message": "Moderado",
+                    "tier": 2
+                },
+                "rating": 8.6,
+                "ratingSignals": 259,
+                "specials": {
+                    "count": 0,
+                    "items": []
+                },
+                "stats": {
+                    "checkinsCount": 3833,
+                    "tipCount": 71,
+                    "usersCount": 1456
+                },
+                "verified": false
+            }
+        }
+        {
+            "reasons": {
+                "count": 0,
+                "items": [
+                    {
+                        "reasonName": "globalInteractionReason",
+                        "summary": "Este lugar es popular",
+                        "type": "general"
+                    }
+                ]
+            },
+            "referralId": "e-0-4dd558dd22716ea3ce72d101-3",
+            "tips": [
+                {
+                    "canonicalUrl": "https://foursquare.com/item/4e57dba445dd1de4d98cff31",
+                    "createdAt": 1314380708,
+                    "id": "4e57dba445dd1de4d98cff31",
+                    "likes": {
+                        "count": 4,
+                        "groups": [],
+                        "summary": "4 gustan"
+                    },
+                    "logView": true,
+                    "text": "Frijolitos los viernes",
+                    "todo": {
+                        "count": 0
+                    },
+                    "type": "user",
+                    "user": {
+                        "firstName": "Mauricio",
+                        "gender": "male",
+                        "id": "2987603",
+                        "lastName": "Montoya",
+                        "photo": {
+                            "prefix": "https://irs1.4sqi.net/img/user/",
+                            "suffix": "/2987603-Q4AM0MF24D2MWBVF.jpg"
+                        }
+                    }
+                }
+            ],
+            "venue": {
+                "allowMenuUrlEdit": true,
+                "categories": [
+                    {
+                        "icon": {
+                            "prefix": "https://ss3.4sqi.net/img/categories_v2/nightlife/pub_",
+                            "suffix": ".png"
+                        },
+                        "id": "4bf58dd8d48988d116941735",
+                        "name": "Bar",
+                        "pluralName": "Bares",
+                        "primary": true,
+                        "shortName": "Bar"
+                    }
+                ],
+                "contact": {
+                    "formattedPhone": "+57 4 2662905",
+                    "phone": "+5742662905"
+                },
+                "hereNow": {
+                    "count": 0,
+                    "groups": [],
+                    "summary": "Nadie aqu\u00ed"
+                },
+                "hours": {
+                    "isOpen": false
+                },
+                "id": "4dd558dd22716ea3ce72d101",
+                "location": {
+                    "address": "Calle 10 # 41-65",
+                    "cc": "CO",
+                    "city": "Medell\u00edn",
+                    "country": "Colombia",
+                    "formattedAddress": [
+                        "Calle 10 # 41-65",
+                        "Medell\u00edn, Antioquia",
+                        "Colombia"
+                    ],
+                    "lat": 6.210055864793924,
+                    "lng": -75.56919571763915,
+                    "state": "Antioquia"
+                },
+                "name": "Berl\u00edn 1930",
+                "photos": {
+                    "count": 89,
+                    "groups": []
+                },
+                "price": {
+                    "currency": "$",
+                    "message": "Moderado",
+                    "tier": 2
+                },
+                "rating": 8.2,
+                "ratingSignals": 79,
+                "specials": {
+                    "count": 0,
+                    "items": []
+                },
+                "stats": {
+                    "checkinsCount": 1032,
+                    "tipCount": 26,
+                    "usersCount": 588
+                },
+                "verified": false
+            }
+        }
+        {
+            "reasons": {
+                "count": 0,
+                "items": [
+                    {
+                        "reasonName": "globalInteractionReason",
+                        "summary": "Este lugar es popular",
+                        "type": "general"
+                    }
+                ]
+            },
+            "referralId": "e-0-52138bce11d25b95e243fe34-4",
+            "tips": [
+                {
+                    "canonicalUrl": "https://foursquare.com/item/524c38a911d2ca07828028c7",
+                    "createdAt": 1380726953,
+                    "id": "524c38a911d2ca07828028c7",
+                    "likes": {
+                        "count": 11,
+                        "groups": [],
+                        "summary": "11 gustan"
+                    },
+                    "logView": true,
+                    "text": "If you are new here ask for \"la cata\" they will give you a small try of the beers. :)",
+                    "todo": {
+                        "count": 1
+                    },
+                    "type": "user",
+                    "user": {
+                        "firstName": "Violeta",
+                        "gender": "female",
+                        "id": "9698582",
+                        "lastName": "Bernal",
+                        "photo": {
+                            "prefix": "https://irs3.4sqi.net/img/user/",
+                            "suffix": "/1ZXMUN5ICHQ3P1JG.jpg"
+                        }
+                    }
+                }
+            ],
+            "venue": {
+                "allowMenuUrlEdit": true,
+                "categories": [
+                    {
+                        "icon": {
+                            "prefix": "https://ss3.4sqi.net/img/categories_v2/nightlife/pub_",
+                            "suffix": ".png"
+                        },
+                        "id": "4bf58dd8d48988d116941735",
+                        "name": "Bar",
+                        "pluralName": "Bares",
+                        "primary": true,
+                        "shortName": "Bar"
+                    }
+                ],
+                "contact": {
+                    "formattedPhone": "+57 4 3113060",
+                    "phone": "+5743113060",
+                    "twitter": "bogotabeerco"
+                },
+                "hereNow": {
+                    "count": 0,
+                    "groups": [],
+                    "summary": "Nadie aqu\u00ed"
+                },
+                "hours": {
+                    "isOpen": true,
+                    "status": "Abierto hasta las 1:00"
+                },
+                "id": "52138bce11d25b95e243fe34",
+                "location": {
+                    "address": "Carrera 34 Nro 7- 165",
+                    "cc": "CO",
+                    "city": "Medell\u00edn",
+                    "country": "Colombia",
+                    "formattedAddress": [
+                        "Carrera 34 Nro 7- 165",
+                        "Medell\u00edn, Antioquia",
+                        "Colombia"
+                    ],
+                    "lat": 6.207613632495397,
+                    "lng": -75.56525600315827,
+                    "state": "Antioquia"
+                },
+                "name": "Bogota Beer Company",
+                "photos": {
+                    "count": 203,
+                    "groups": []
+                },
+                "price": {
+                    "currency": "$",
+                    "message": "Moderado",
+                    "tier": 2
+                },
+                "rating": 8.6,
+                "ratingSignals": 254,
+                "specials": {
+                    "count": 0,
+                    "items": []
+                },
+                "stats": {
+                    "checkinsCount": 2291,
+                    "tipCount": 66,
+                    "usersCount": 1051
+                },
+                "url": "http://www.bogotabeercompany.com",
+                "verified": false
+            }
+        }
+        {
+            "reasons": {
+                "count": 0,
+                "items": [
+                    {
+                        "reasonName": "globalInteractionReason",
+                        "summary": "Este lugar es popular",
+                        "type": "general"
+                    }
+                ]
+            },
+            "referralId": "e-0-4c9e9c4ee9a7ef3b863b4316-5",
+            "tips": [
+                {
+                    "canonicalUrl": "https://foursquare.com/item/4d686bea4c4637047cba93b3",
+                    "createdAt": 1298689002,
+                    "id": "4d686bea4c4637047cba93b3",
+                    "likes": {
+                        "count": 13,
+                        "groups": [],
+                        "summary": "13 gustan"
+                    },
+                    "logView": true,
+                    "text": "El mejor lugar para estar con tus amigos y escuchar rocksito y tomar de todo",
+                    "todo": {
+                        "count": 0
+                    },
+                    "type": "user",
+                    "user": {
+                        "firstName": "Sergio",
+                        "gender": "male",
+                        "id": "7190472",
+                        "lastName": "Sanchez",
+                        "photo": {
+                            "prefix": "https://irs0.4sqi.net/img/user/",
+                            "suffix": "/XLFFQ31LYQCTTVKH.jpg"
+                        }
+                    }
+                }
+            ],
+            "venue": {
+                "allowMenuUrlEdit": true,
+                "categories": [
+                    {
+                        "icon": {
+                            "prefix": "https://ss3.4sqi.net/img/categories_v2/nightlife/pub_",
+                            "suffix": ".png"
+                        },
+                        "id": "4bf58dd8d48988d116941735",
+                        "name": "Bar",
+                        "pluralName": "Bares",
+                        "primary": true,
+                        "shortName": "Bar"
+                    }
+                ],
+                "contact": {
+                    "facebook": "145792858776714",
+                    "facebookName": "Blue Medellin",
+                    "formattedPhone": "005742663047",
+                    "phone": "005742663047",
+                    "twitter": "bluediscoteca"
+                },
+                "hereNow": {
+                    "count": 0,
+                    "groups": [],
+                    "summary": "Nadie aqu\u00ed"
+                },
+                "hours": {
+                    "isOpen": false
+                },
+                "id": "4c9e9c4ee9a7ef3b863b4316",
+                "location": {
+                    "address": "Clle 10 #40-20",
+                    "cc": "CO",
+                    "city": "Medell\u00edn",
+                    "country": "Colombia",
+                    "formattedAddress": [
+                        "Clle 10 #40-20",
+                        "Medell\u00edn, Antioquia",
+                        "Colombia"
+                    ],
+                    "lat": 6.209332940277533,
+                    "lng": -75.56769847869873,
+                    "state": "Antioquia"
+                },
+                "name": "El Blue",
+                "photos": {
+                    "count": 238,
+                    "groups": []
+                },
+                "price": {
+                    "currency": "$",
+                    "message": "Moderado",
+                    "tier": 2
+                },
+                "rating": 8.5,
+                "ratingSignals": 179,
+                "specials": {
+                    "count": 0,
+                    "items": []
+                },
+                "stats": {
+                    "checkinsCount": 2154,
+                    "tipCount": 43,
+                    "usersCount": 977
+                },
+                "verified": false
+            }
+        }
+        {
+            "reasons": {
+                "count": 0,
+                "items": [
+                    {
+                        "reasonName": "globalInteractionReason",
+                        "summary": "Este lugar es popular",
+                        "type": "general"
+                    }
+                ]
+            },
+            "referralId": "e-0-4da4f0764df00f31b172c693-6",
+            "tips": [
+                {
+                    "canonicalUrl": "https://foursquare.com/item/4f0f8c56e4b00420527a4b23",
+                    "createdAt": 1326419030,
+                    "id": "4f0f8c56e4b00420527a4b23",
+                    "likes": {
+                        "count": 5,
+                        "groups": [],
+                        "summary": "5 gustan"
+                    },
+                    "logView": true,
+                    "text": "La mejorrrrrr sangriaaa del planeta tierraaaaaa",
+                    "todo": {
+                        "count": 2
+                    },
+                    "type": "user",
+                    "user": {
+                        "firstName": "Monica",
+                        "gender": "female",
+                        "id": "13619593",
+                        "lastName": "Isabel",
+                        "photo": {
+                            "prefix": "https://irs1.4sqi.net/img/user/",
+                            "suffix": "/13619593-S5RBIMYX4SES5TMB.jpg"
+                        }
+                    }
+                }
+            ],
+            "venue": {
+                "allowMenuUrlEdit": true,
+                "categories": [
+                    {
+                        "icon": {
+                            "prefix": "https://ss3.4sqi.net/img/categories_v2/food/winery_",
+                            "suffix": ".png"
+                        },
+                        "id": "4bf58dd8d48988d123941735",
+                        "name": "Bar de vinos",
+                        "pluralName": "Bares de vino",
+                        "primary": true,
+                        "shortName": "Bar de vinos"
+                    }
+                ],
+                "contact": {
+                    "facebook": "109180032497658",
+                    "formattedPhone": "+57 4 3664966",
+                    "phone": "+5743664966",
+                    "twitter": "themarketdeli"
+                },
+                "hereNow": {
+                    "count": 0,
+                    "groups": [],
+                    "summary": "Nadie aqu\u00ed"
+                },
+                "hours": {
+                    "isOpen": true,
+                    "status": "Probablemente abierto"
+                },
+                "id": "4da4f0764df00f31b172c693",
+                "location": {
+                    "address": "Cra 32 #2 Sur 47",
+                    "cc": "CO",
+                    "city": "Medell\u00edn",
+                    "country": "Colombia",
+                    "crossStreet": "L223",
+                    "formattedAddress": [
+                        "Cra 32 #2 Sur 47 (L223)",
+                        "Medell\u00edn, Antioquia",
+                        "Colombia"
+                    ],
+                    "lat": 6.198472098175964,
+                    "lng": -75.5660689687163,
+                    "postalCode": "574",
+                    "state": "Antioquia"
+                },
+                "name": "The Market Delicatessen",
+                "photos": {
+                    "count": 113,
+                    "groups": []
+                },
+                "price": {
+                    "currency": "$",
+                    "message": "Barato",
+                    "tier": 1
+                },
+                "rating": 9.3,
+                "ratingSignals": 62,
+                "specials": {
+                    "count": 0,
+                    "items": []
+                },
+                "stats": {
+                    "checkinsCount": 647,
+                    "tipCount": 27,
+                    "usersCount": 293
+                },
+                "storeId": "",
+                "venuePage": {
+                    "id": "38547761"
+                },
+                "verified": true
+            }
+        }
+        {
+            "reasons": {
+                "count": 0,
+                "items": [
+                    {
+                        "reasonName": "globalInteractionReason",
+                        "summary": "Este lugar es popular",
+                        "type": "general"
+                    }
+                ]
+            },
+            "referralId": "e-0-4dafa26af7b149e03f39040e-7",
+            "tips": [
+                {
+                    "canonicalUrl": "https://foursquare.com/item/5064dc48e4b08bbff7e2e2e1",
+                    "createdAt": 1348787272,
+                    "id": "5064dc48e4b08bbff7e2e2e1",
+                    "likes": {
+                        "count": 9,
+                        "groups": [],
+                        "summary": "9 gustan"
+                    },
+                    "logView": true,
+                    "text": "La mejor salsa en la ciudad con m\u00fasica en vivo los s\u00e1bados.",
+                    "todo": {
+                        "count": 0
+                    },
+                    "type": "user",
+                    "user": {
+                        "firstName": "Juan",
+                        "gender": "male",
+                        "id": "9888074",
+                        "lastName": "Lopez",
+                        "photo": {
+                            "prefix": "https://irs0.4sqi.net/img/user/",
+                            "suffix": "/9888074-S0HDU3CONOJYHYHV.jpg"
+                        }
+                    }
+                }
+            ],
+            "venue": {
+                "allowMenuUrlEdit": true,
+                "categories": [
+                    {
+                        "icon": {
+                            "prefix": "https://ss3.4sqi.net/img/categories_v2/nightlife/pub_",
+                            "suffix": ".png"
+                        },
+                        "id": "4bf58dd8d48988d116941735",
+                        "name": "Bar",
+                        "pluralName": "Bares",
+                        "primary": true,
+                        "shortName": "Bar"
+                    }
+                ],
+                "contact": {
+                    "formattedPhone": "+57 4 4129644",
+                    "phone": "+5744129644"
+                },
+                "hereNow": {
+                    "count": 0,
+                    "groups": [],
+                    "summary": "Nadie aqu\u00ed"
+                },
+                "hours": {
+                    "isOpen": false
+                },
+                "id": "4dafa26af7b149e03f39040e",
+                "location": {
+                    "address": "Cra 73",
+                    "cc": "CO",
+                    "city": "Medell\u00edn",
+                    "country": "Colombia",
+                    "crossStreet": "44 - 56",
+                    "formattedAddress": [
+                        "Cra 73 (44 - 56)",
+                        "Medell\u00edn, Antioquia",
+                        "Colombia"
+                    ],
+                    "lat": 6.250424758637886,
+                    "lng": -75.59214402707393,
+                    "state": "Antioquia"
+                },
+                "name": "Son Havana",
+                "photos": {
+                    "count": 40,
+                    "groups": []
+                },
+                "price": {
+                    "currency": "$",
+                    "message": "Moderado",
+                    "tier": 2
+                },
+                "rating": 8.3,
+                "ratingSignals": 51,
+                "specials": {
+                    "count": 0,
+                    "items": []
+                },
+                "stats": {
+                    "checkinsCount": 714,
+                    "tipCount": 21,
+                    "usersCount": 343
+                },
+                "verified": false
+            }
+        }
+        {
+            "reasons": {
+                "count": 0,
+                "items": [
+                    {
+                        "reasonName": "globalInteractionReason",
+                        "summary": "Este lugar es popular",
+                        "type": "general"
+                    }
+                ]
+            },
+            "referralId": "e-0-4daf98f94df00ee01d3ded4b-8",
+            "tips": [
+                {
+                    "canonicalUrl": "https://foursquare.com/item/4dc4dd46d4c0ad9c0f7a0a99",
+                    "createdAt": 1304747334,
+                    "id": "4dc4dd46d4c0ad9c0f7a0a99",
+                    "likes": {
+                        "count": 5,
+                        "groups": [],
+                        "summary": "5 gustan"
+                    },
+                    "logView": true,
+                    "text": "Prueben el sem\u00e1foro. Es caro, pero es el mejor.",
+                    "todo": {
+                        "count": 2
+                    },
+                    "type": "user",
+                    "user": {
+                        "firstName": "David",
+                        "gender": "male",
+                        "id": "911945",
+                        "lastName": "Numa",
+                        "photo": {
+                            "prefix": "https://irs1.4sqi.net/img/user/",
+                            "suffix": "/NZBTQXTHD2PQFKA2.jpg"
+                        }
+                    }
+                }
+            ],
+            "venue": {
+                "allowMenuUrlEdit": true,
+                "categories": [
+                    {
+                        "icon": {
+                            "prefix": "https://ss3.4sqi.net/img/categories_v2/nightlife/pub_",
+                            "suffix": ".png"
+                        },
+                        "id": "4bf58dd8d48988d116941735",
+                        "name": "Bar",
+                        "pluralName": "Bares",
+                        "primary": true,
+                        "shortName": "Bar"
+                    }
+                ],
+                "contact": {
+                    "twitter": "chupitos"
+                },
+                "hereNow": {
+                    "count": 0,
+                    "groups": [],
+                    "summary": "Nadie aqu\u00ed"
+                },
+                "hours": {
+                    "isOpen": false
+                },
+                "id": "4daf98f94df00ee01d3ded4b",
+                "location": {
+                    "address": "Cra 37A",
+                    "cc": "CO",
+                    "city": "Medell\u00edn",
+                    "country": "Colombia",
+                    "crossStreet": "8A 1-99",
+                    "formattedAddress": [
+                        "Cra 37A (8A 1-99)",
+                        "Medell\u00edn, Antioquia",
+                        "Colombia"
+                    ],
+                    "lat": 6.208297647528919,
+                    "lng": -75.56742200637206,
+                    "state": "Antioquia"
+                },
+                "name": "Chupitos",
+                "photos": {
+                    "count": 89,
+                    "groups": []
+                },
+                "price": {
+                    "currency": "$",
+                    "message": "Moderado",
+                    "tier": 2
+                },
+                "rating": 8.2,
+                "ratingSignals": 87,
+                "specials": {
+                    "count": 0,
+                    "items": []
+                },
+                "stats": {
+                    "checkinsCount": 1056,
+                    "tipCount": 28,
+                    "usersCount": 753
+                },
+                "verified": false
+            }
+        }
+        {
+            "reasons": {
+                "count": 0,
+                "items": [
+                    {
+                        "reasonName": "globalInteractionReason",
+                        "summary": "Este lugar es popular",
+                        "type": "general"
+                    }
+                ]
+            },
+            "referralId": "e-0-4c79de0ca86837043a45124d-9",
+            "tips": [
+                {
+                    "canonicalUrl": "https://foursquare.com/item/523e61dd498e8150cd818261",
+                    "createdAt": 1379819997,
+                    "id": "523e61dd498e8150cd818261",
+                    "likes": {
+                        "count": 18,
+                        "groups": [],
+                        "summary": "18 gustan"
+                    },
+                    "logView": true,
+                    "text": "Bonito el sitio,  la m\u00fasica super y los tipos ni hablar",
+                    "todo": {
+                        "count": 0
+                    },
+                    "type": "user",
+                    "user": {
+                        "firstName": "Miguel",
+                        "gender": "male",
+                        "id": "12636307",
+                        "lastName": "Gonz\u00e1lez Rojas",
+                        "photo": {
+                            "prefix": "https://irs0.4sqi.net/img/user/",
+                            "suffix": "/12636307-5DDTZCBOCPYNOCTK.jpg"
+                        }
+                    }
+                }
+            ],
+            "venue": {
+                "allowMenuUrlEdit": true,
+                "categories": [
+                    {
+                        "icon": {
+                            "prefix": "https://ss3.4sqi.net/img/categories_v2/nightlife/pub_",
+                            "suffix": ".png"
+                        },
+                        "id": "4bf58dd8d48988d116941735",
+                        "name": "Bar",
+                        "pluralName": "Bares",
+                        "primary": true,
+                        "shortName": "Bar"
+                    }
+                ],
+                "contact": {},
+                "hereNow": {
+                    "count": 0,
+                    "groups": [],
+                    "summary": "Nadie aqu\u00ed"
+                },
+                "hours": {
+                    "isOpen": false
+                },
+                "id": "4c79de0ca86837043a45124d",
+                "location": {
+                    "cc": "CO",
+                    "city": "Medell\u00edn",
+                    "country": "Colombia",
+                    "formattedAddress": [
+                        "Medell\u00edn, Antioquia",
+                        "Colombia"
+                    ],
+                    "lat": 6.209207398315257,
+                    "lng": -75.5675072814395,
+                    "state": "Antioquia"
+                },
+                "name": "Donde Aquellos",
+                "photos": {
+                    "count": 98,
+                    "groups": []
+                },
+                "price": {
+                    "currency": "$",
+                    "message": "Moderado",
+                    "tier": 2
+                },
+                "rating": 7.9,
+                "ratingSignals": 72,
+                "specials": {
+                    "count": 0,
+                    "items": []
+                },
+                "stats": {
+                    "checkinsCount": 1050,
+                    "tipCount": 22,
+                    "usersCount": 462
+                },
+                "verified": false
+            }
+        }
+        {
+            "reasons": {
+                "count": 0,
+                "items": [
+                    {
+                        "reasonName": "globalInteractionReason",
+                        "summary": "Este lugar es popular",
+                        "type": "general"
+                    }
+                ]
+            },
+            "referralId": "e-0-50933586e4b0d8a7b2325fc0-10",
+            "tips": [
+                {
+                    "canonicalUrl": "https://foursquare.com/item/52c07bf611d24cfbb388c9ed",
+                    "createdAt": 1388346358,
+                    "id": "52c07bf611d24cfbb388c9ed",
+                    "likes": {
+                        "count": 1,
+                        "groups": [],
+                        "summary": "1 me gusta"
+                    },
+                    "logView": true,
+                    "text": "Great collection of rock music and a good sociable crowd in their twenties and thirties! Could use some Arctic Monkeys, but then again: it's evolution baby :)",
+                    "todo": {
+                        "count": 0
+                    },
+                    "type": "user",
+                    "user": {
+                        "firstName": "Gerben",
+                        "gender": "male",
+                        "id": "757478",
+                        "lastName": "Dijkstra",
+                        "photo": {
+                            "prefix": "https://irs2.4sqi.net/img/user/",
+                            "suffix": "/757478-NTTCPEZYMVIC3ZBE.jpg"
+                        }
+                    }
+                }
+            ],
+            "venue": {
+                "allowMenuUrlEdit": true,
+                "categories": [
+                    {
+                        "icon": {
+                            "prefix": "https://ss3.4sqi.net/img/categories_v2/nightlife/pub_",
+                            "suffix": ".png"
+                        },
+                        "id": "4bf58dd8d48988d116941735",
+                        "name": "Bar",
+                        "pluralName": "Bares",
+                        "primary": true,
+                        "shortName": "Bar"
+                    }
+                ],
+                "contact": {},
+                "hereNow": {
+                    "count": 0,
+                    "groups": [],
+                    "summary": "Nadie aqu\u00ed"
+                },
+                "id": "50933586e4b0d8a7b2325fc0",
+                "location": {
+                    "address": "Cra 80 # 45",
+                    "cc": "CO",
+                    "city": "Medell\u00edn",
+                    "country": "Colombia",
+                    "formattedAddress": [
+                        "Cra 80 # 45",
+                        "Medell\u00edn, Antioquia",
+                        "Colombia"
+                    ],
+                    "lat": 6.2099626626021385,
+                    "lng": -75.56829180975063,
+                    "state": "Antioquia"
+                },
+                "name": "Blue",
+                "photos": {
+                    "count": 15,
+                    "groups": []
+                },
+                "price": {
+                    "currency": "$",
+                    "message": "Moderado",
+                    "tier": 2
+                },
+                "rating": 8.2,
+                "ratingSignals": 13,
+                "specials": {
+                    "count": 0,
+                    "items": []
+                },
+                "stats": {
+                    "checkinsCount": 100,
+                    "tipCount": 4,
+                    "usersCount": 79
+                },
+                "verified": false
+            }
+        }
+        {
+            "reasons": {
+                "count": 0,
+                "items": [
+                    {
+                        "reasonName": "globalInteractionReason",
+                        "summary": "Este lugar es popular",
+                        "type": "general"
+                    }
+                ]
+            },
+            "referralId": "e-0-4cf9a41ac51fa1cd8afbdb2b-11",
+            "tips": [
+                {
+                    "canonicalUrl": "https://foursquare.com/item/50d10417e4b0cc694bd91178",
+                    "createdAt": 1355875351,
+                    "id": "50d10417e4b0cc694bd91178",
+                    "likes": {
+                        "count": 3,
+                        "groups": [],
+                        "summary": "3 gustan"
+                    },
+                    "logView": true,
+                    "text": "El mejor sitio en toda la Strada, excelente ambiente y licores",
+                    "todo": {
+                        "count": 0
+                    },
+                    "type": "user",
+                    "user": {
+                        "firstName": "Fabio",
+                        "gender": "male",
+                        "id": "24783136",
+                        "lastName": "Hernandez",
+                        "photo": {
+                            "prefix": "https://irs0.4sqi.net/img/user/",
+                            "suffix": "/OTLKGOIGJX1BI3Z0.jpg"
+                        }
+                    }
+                }
+            ],
+            "venue": {
+                "allowMenuUrlEdit": true,
+                "categories": [
+                    {
+                        "icon": {
+                            "prefix": "https://ss3.4sqi.net/img/categories_v2/nightlife/pub_",
+                            "suffix": ".png"
+                        },
+                        "id": "4bf58dd8d48988d116941735",
+                        "name": "Bar",
+                        "pluralName": "Bares",
+                        "primary": true,
+                        "shortName": "Bar"
+                    }
+                ],
+                "contact": {},
+                "hereNow": {
+                    "count": 0,
+                    "groups": [],
+                    "summary": "Nadie aqu\u00ed"
+                },
+                "hours": {
+                    "isOpen": true,
+                    "status": "Probablemente abierto"
+                },
+                "id": "4cf9a41ac51fa1cd8afbdb2b",
+                "location": {
+                    "address": "La strada",
+                    "cc": "CO",
+                    "city": "Medell\u00edn",
+                    "country": "Colombia",
+                    "formattedAddress": [
+                        "La strada",
+                        "Medell\u00edn, Antioquia",
+                        "Colombia"
+                    ],
+                    "lat": 6.2019559254250165,
+                    "lng": -75.57196994126794,
+                    "state": "Antioquia"
+                },
+                "name": "Le Bans",
+                "photos": {
+                    "count": 30,
+                    "groups": []
+                },
+                "price": {
+                    "currency": "$",
+                    "message": "Moderado",
+                    "tier": 2
+                },
+                "rating": 8.0,
+                "ratingSignals": 19,
+                "specials": {
+                    "count": 0,
+                    "items": []
+                },
+                "stats": {
+                    "checkinsCount": 263,
+                    "tipCount": 8,
+                    "usersCount": 102
+                },
+                "verified": false
+            }
+        }
+        {
+            "reasons": {
+                "count": 0,
+                "items": [
+                    {
+                        "reasonName": "globalInteractionReason",
+                        "summary": "Este lugar es popular",
+                        "type": "general"
+                    }
+                ]
+            },
+            "referralId": "e-0-4e5ec93d88771c9468967b6f-12",
+            "tips": [
+                {
+                    "canonicalUrl": "https://foursquare.com/item/52266fac11d267864136e9ce",
+                    "createdAt": 1378250668,
+                    "id": "52266fac11d267864136e9ce",
+                    "likes": {
+                        "count": 12,
+                        "groups": [],
+                        "summary": "12 gustan"
+                    },
+                    "logView": true,
+                    "photo": {
+                        "createdAt": 1378250718,
+                        "height": 960,
+                        "id": "52266fde498e0cfc54642cb9",
+                        "prefix": "https://irs1.4sqi.net/img/general/",
+                        "source": {
+                            "name": "Foursquare for iOS",
+                            "url": "https://foursquare.com/download/#/iphone"
+                        },
+                        "suffix": "/65723866_Lv3spMKeDm4VBgsdOhSedrDIrPqiqDo0N8IxncERcIE.jpg",
+                        "width": 720
+                    },
+                    "photourl": "https://irs1.4sqi.net/img/general/original/65723866_Lv3spMKeDm4VBgsdOhSedrDIrPqiqDo0N8IxncERcIE.jpg",
+                    "text": "Totalmente recomendada la sangr\u00eda de mango biche",
+                    "todo": {
+                        "count": 3
+                    },
+                    "type": "user",
+                    "user": {
+                        "firstName": "Santiago",
+                        "gender": "male",
+                        "id": "65723866",
+                        "lastName": "Sierra",
+                        "photo": {
+                            "prefix": "https://irs1.4sqi.net/img/user/",
+                            "suffix": "/65723866-SACXSJ4FPSWRIYRX.jpg"
+                        }
+                    }
+                }
+            ],
+            "venue": {
+                "allowMenuUrlEdit": true,
+                "categories": [
+                    {
+                        "icon": {
+                            "prefix": "https://ss3.4sqi.net/img/categories_v2/nightlife/pub_",
+                            "suffix": ".png"
+                        },
+                        "id": "4bf58dd8d48988d116941735",
+                        "name": "Bar",
+                        "pluralName": "Bares",
+                        "primary": true,
+                        "shortName": "Bar"
+                    }
+                ],
+                "contact": {},
+                "hereNow": {
+                    "count": 0,
+                    "groups": [],
+                    "summary": "Nadie aqu\u00ed"
+                },
+                "hours": {
+                    "isOpen": true,
+                    "status": "Probablemente abierto"
+                },
+                "id": "4e5ec93d88771c9468967b6f",
+                "location": {
+                    "address": "Riosur",
+                    "cc": "CO",
+                    "city": "Medell\u00edn",
+                    "country": "Colombia",
+                    "formattedAddress": [
+                        "Riosur",
+                        "Medell\u00edn, Antioquia",
+                        "Colombia"
+                    ],
+                    "lat": 6.198752292875423,
+                    "lng": -75.57362990261241,
+                    "state": "Antioquia"
+                },
+                "name": "La Bolsa",
+                "photos": {
+                    "count": 165,
+                    "groups": []
+                },
+                "price": {
+                    "currency": "$",
+                    "message": "Moderado",
+                    "tier": 2
+                },
+                "rating": 7.8,
+                "ratingSignals": 147,
+                "specials": {
+                    "count": 0,
+                    "items": []
+                },
+                "stats": {
+                    "checkinsCount": 1860,
+                    "tipCount": 50,
+                    "usersCount": 1387
+                },
+                "verified": false
+            }
+        }
+        {
+            "reasons": {
+                "count": 0,
+                "items": [
+                    {
+                        "reasonName": "globalInteractionReason",
+                        "summary": "Este lugar es popular",
+                        "type": "general"
+                    }
+                ]
+            },
+            "referralId": "e-0-4ee667e1823180a98d2e8e4a-13",
+            "tips": [
+                {
+                    "canonicalUrl": "https://foursquare.com/item/510ecd40e4b04d3f9cdca64f",
+                    "createdAt": 1359924544,
+                    "id": "510ecd40e4b04d3f9cdca64f",
+                    "likes": {
+                        "count": 2,
+                        "groups": [],
+                        "summary": "2 gustan"
+                    },
+                    "logView": true,
+                    "text": "mejor tienda charcuteria",
+                    "todo": {
+                        "count": 0
+                    },
+                    "type": "user",
+                    "user": {
+                        "firstName": "CosechasExpressfans",
+                        "gender": "male",
+                        "id": "44628062",
+                        "lastName": "(Expertos en Bebidas)",
+                        "photo": {
+                            "prefix": "https://irs1.4sqi.net/img/user/",
+                            "suffix": "/-VBBSFYKGYPM1FD1C.jpg"
+                        }
+                    }
+                }
+            ],
+            "venue": {
+                "allowMenuUrlEdit": true,
+                "categories": [
+                    {
+                        "icon": {
+                            "prefix": "https://ss3.4sqi.net/img/categories_v2/food/winery_",
+                            "suffix": ".png"
+                        },
+                        "id": "4bf58dd8d48988d123941735",
+                        "name": "Bar de vinos",
+                        "pluralName": "Bares de vino",
+                        "primary": true,
+                        "shortName": "Bar de vinos"
+                    }
+                ],
+                "contact": {},
+                "hereNow": {
+                    "count": 0,
+                    "groups": [],
+                    "summary": "Nadie aqu\u00ed"
+                },
+                "hours": {
+                    "isOpen": true,
+                    "status": "Probablemente abierto"
+                },
+                "id": "4ee667e1823180a98d2e8e4a",
+                "location": {
+                    "address": "Carrera 43 a #25 a - 45",
+                    "cc": "CO",
+                    "city": "Medell\u00edn",
+                    "country": "Colombia",
+                    "crossStreet": "Carrera 43 a",
+                    "formattedAddress": [
+                        "Carrera 43 a #25 a - 45 (Carrera 43 a)",
+                        "Medell\u00edn, Antioquia",
+                        "Colombia"
+                    ],
+                    "lat": 6.225454493533112,
+                    "lng": -75.5695993476771,
+                    "state": "Antioquia"
+                },
+                "name": "Dislicores",
+                "photos": {
+                    "count": 10,
+                    "groups": []
+                },
+                "price": {
+                    "currency": "$",
+                    "message": "Moderado",
+                    "tier": 2
+                },
+                "rating": 8.0,
+                "ratingSignals": 20,
+                "specials": {
+                    "count": 0,
+                    "items": []
+                },
+                "stats": {
+                    "checkinsCount": 259,
+                    "tipCount": 2,
+                    "usersCount": 105
+                },
+                "verified": false
+            }
+        }
+        {
+            "reasons": {
+                "count": 0,
+                "items": [
+                    {
+                        "reasonName": "globalInteractionReason",
+                        "summary": "Este lugar es popular",
+                        "type": "general"
+                    }
+                ]
+            },
+            "referralId": "e-0-4d3f9d33adb6236aecec8040-14",
+            "tips": [
+                {
+                    "canonicalUrl": "https://foursquare.com/item/4fd68746e4b05c6ceb7a098b",
+                    "createdAt": 1339459398,
+                    "id": "4fd68746e4b05c6ceb7a098b",
+                    "likes": {
+                        "count": 3,
+                        "groups": [],
+                        "summary": "3 gustan"
+                    },
+                    "logView": true,
+                    "text": "Roqueiros do Brasil, esse \u00e9 um o\u00e1sis do rock. so musica paulada. Imperdivel!!!",
+                    "todo": {
+                        "count": 0
+                    },
+                    "type": "user",
+                    "user": {
+                        "firstName": "Gerson",
+                        "gender": "male",
+                        "id": "9029201",
+                        "lastName": "Boaventura",
+                        "photo": {
+                            "prefix": "https://irs3.4sqi.net/img/user/",
+                            "suffix": "/9029201-QFOLNSMWAV3WP5L5.jpg"
+                        }
+                    }
+                }
+            ],
+            "venue": {
+                "allowMenuUrlEdit": true,
+                "categories": [
+                    {
+                        "icon": {
+                            "prefix": "https://ss3.4sqi.net/img/categories_v2/nightlife/pub_",
+                            "suffix": ".png"
+                        },
+                        "id": "4bf58dd8d48988d116941735",
+                        "name": "Bar",
+                        "pluralName": "Bares",
+                        "primary": true,
+                        "shortName": "Bar"
+                    }
+                ],
+                "contact": {},
+                "hereNow": {
+                    "count": 0,
+                    "groups": [],
+                    "summary": "Nadie aqu\u00ed"
+                },
+                "hours": {
+                    "isOpen": true,
+                    "status": "Abierto hasta las 2:00"
+                },
+                "id": "4d3f9d33adb6236aecec8040",
+                "location": {
+                    "address": "CC Villa de Aburra Loc 135",
+                    "cc": "CO",
+                    "city": "Medell\u00edn",
+                    "country": "Colombia",
+                    "formattedAddress": [
+                        "CC Villa de Aburra Loc 135",
+                        "Medell\u00edn, Antioquia",
+                        "Colombia"
+                    ],
+                    "lat": 6.235292900838553,
+                    "lng": -75.60188048806802,
+                    "state": "Antioquia"
+                },
+                "name": "Valhala Bar Rock",
+                "photos": {
+                    "count": 7,
+                    "groups": []
+                },
+                "price": {
+                    "currency": "$",
+                    "message": "Moderado",
+                    "tier": 2
+                },
+                "rating": 7.9,
+                "ratingSignals": 15,
+                "specials": {
+                    "count": 0,
+                    "items": []
+                },
+                "stats": {
+                    "checkinsCount": 169,
+                    "tipCount": 11,
+                    "usersCount": 55
+                },
+                "verified": false
+            }
+        }
+        {
+            "reasons": {
+                "count": 0,
+                "items": [
+                    {
+                        "reasonName": "globalInteractionReason",
+                        "summary": "Este lugar es popular",
+                        "type": "general"
+                    }
+                ]
+            },
+            "referralId": "e-0-50e2390fe4b0c6dcd1a6ca49-15",
+            "tips": [
+                {
+                    "canonicalUrl": "https://foursquare.com/item/522399db11d2291c48ce30fc",
+                    "createdAt": 1378064859,
+                    "id": "522399db11d2291c48ce30fc",
+                    "likes": {
+                        "count": 8,
+                        "groups": [],
+                        "summary": "8 gustan"
+                    },
+                    "logView": true,
+                    "text": "Excelente lugar para ir un jueves",
+                    "todo": {
+                        "count": 0
+                    },
+                    "type": "user",
+                    "user": {
+                        "firstName": "Camilo",
+                        "gender": "male",
+                        "id": "13042647",
+                        "lastName": "Restrepo",
+                        "photo": {
+                            "prefix": "https://irs0.4sqi.net/img/user/",
+                            "suffix": "/13042647-P0J1A2NDYJDCCG4W.jpg"
+                        }
+                    }
+                }
+            ],
+            "venue": {
+                "allowMenuUrlEdit": true,
+                "categories": [
+                    {
+                        "icon": {
+                            "prefix": "https://ss3.4sqi.net/img/categories_v2/nightlife/pub_",
+                            "suffix": ".png"
+                        },
+                        "id": "4bf58dd8d48988d116941735",
+                        "name": "Bar",
+                        "pluralName": "Bares",
+                        "primary": true,
+                        "shortName": "Bar"
+                    }
+                ],
+                "contact": {},
+                "hereNow": {
+                    "count": 0,
+                    "groups": [],
+                    "summary": "Nadie aqu\u00ed"
+                },
+                "hours": {
+                    "isOpen": true,
+                    "status": "Probablemente abierto"
+                },
+                "id": "50e2390fe4b0c6dcd1a6ca49",
+                "location": {
+                    "address": "Calle 10 # 40 - 10",
+                    "cc": "CO",
+                    "city": "Medell\u00edn",
+                    "country": "Colombia",
+                    "formattedAddress": [
+                        "Calle 10 # 40 - 10",
+                        "Medell\u00edn, Antioquia",
+                        "Colombia"
+                    ],
+                    "lat": 6.209753843873637,
+                    "lng": -75.56795639598253,
+                    "state": "Antioquia"
+                },
+                "name": "Calle 9+1",
+                "photos": {
+                    "count": 139,
+                    "groups": []
+                },
+                "price": {
+                    "currency": "$",
+                    "message": "Moderado",
+                    "tier": 2
+                },
+                "rating": 7.8,
+                "ratingSignals": 157,
+                "specials": {
+                    "count": 0,
+                    "items": []
+                },
+                "stats": {
+                    "checkinsCount": 1977,
+                    "tipCount": 32,
+                    "usersCount": 902
+                },
+                "verified": false
+            }
+        }
+        {
+            "reasons": {
+                "count": 0,
+                "items": [
+                    {
+                        "reasonName": "globalInteractionReason",
+                        "summary": "Este lugar es popular",
+                        "type": "general"
+                    }
+                ]
+            },
+            "referralId": "e-0-4ddb21322271ac90476d569f-16",
+            "tips": [
+                {
+                    "canonicalUrl": "https://foursquare.com/item/5487c3f1498e87dd836d32ba",
+                    "createdAt": 1418183665,
+                    "id": "5487c3f1498e87dd836d32ba",
+                    "logView": true,
+                    "text": "Sitio con identidad propia.. Bohemio, agradable, excelente m\u00fasica, decoraci\u00f3n muy urbana y de muy buen gusto",
+                    "todo": {
+                        "count": 0
+                    },
+                    "type": "user",
+                    "user": {
+                        "firstName": "Alejandro",
+                        "gender": "male",
+                        "id": "104993001",
+                        "lastName": "Calder\u00f3n",
+                        "photo": {
+                            "prefix": "https://irs2.4sqi.net/img/user/",
+                            "suffix": "/104993001-TIYVFA2KZFS1TQOG.jpg"
+                        }
+                    }
+                }
+            ],
+            "venue": {
+                "allowMenuUrlEdit": true,
+                "categories": [
+                    {
+                        "icon": {
+                            "prefix": "https://ss3.4sqi.net/img/categories_v2/nightlife/pub_",
+                            "suffix": ".png"
+                        },
+                        "id": "4bf58dd8d48988d116941735",
+                        "name": "Bar",
+                        "pluralName": "Bares",
+                        "primary": true,
+                        "shortName": "Bar"
+                    }
+                ],
+                "contact": {},
+                "hereNow": {
+                    "count": 0,
+                    "groups": [],
+                    "summary": "Nadie aqu\u00ed"
+                },
+                "id": "4ddb21322271ac90476d569f",
+                "location": {
+                    "cc": "CO",
+                    "city": "Medell\u00edn",
+                    "country": "Colombia",
+                    "formattedAddress": [
+                        "Medell\u00edn, Antioquia",
+                        "Colombia"
+                    ],
+                    "lat": 6.249388987107869,
+                    "lng": -75.56210096690609,
+                    "state": "Antioquia"
+                },
+                "name": "Guanabano",
+                "photos": {
+                    "count": 11,
+                    "groups": []
+                },
+                "price": {
+                    "currency": "$",
+                    "message": "Moderado",
+                    "tier": 2
+                },
+                "rating": 7.5,
+                "ratingSignals": 12,
+                "specials": {
+                    "count": 0,
+                    "items": []
+                },
+                "stats": {
+                    "checkinsCount": 176,
+                    "tipCount": 7,
+                    "usersCount": 63
+                },
+                "verified": false
+            }
+        }
+        {
+            "reasons": {
+                "count": 0,
+                "items": [
+                    {
+                        "reasonName": "globalInteractionReason",
+                        "summary": "Este lugar es popular",
+                        "type": "general"
+                    }
+                ]
+            },
+            "referralId": "e-0-4f13832be4b0725fedee00b0-17",
+            "tips": [
+                {
+                    "canonicalUrl": "https://foursquare.com/item/503995fde4b06e9ad49a66ca",
+                    "createdAt": 1345951229,
+                    "id": "503995fde4b06e9ad49a66ca",
+                    "likes": {
+                        "count": 5,
+                        "groups": [],
+                        "summary": "5 gustan"
+                    },
+                    "logView": true,
+                    "photo": {
+                        "createdAt": 1345951235,
+                        "height": 540,
+                        "id": "50399603e4b03fdd88d90214",
+                        "prefix": "https://irs3.4sqi.net/img/general/",
+                        "source": {
+                            "name": "Foursquare for iOS",
+                            "url": "https://foursquare.com/download/#/iphone"
+                        },
+                        "suffix": "/Ymv3rwURaQWLIike-j22F6gamVGA47BWkBSwc6ZdwTs.jpg",
+                        "width": 405
+                    },
+                    "photourl": "https://irs3.4sqi.net/img/general/original/Ymv3rwURaQWLIike-j22F6gamVGA47BWkBSwc6ZdwTs.jpg",
+                    "text": "Las mejores sangr\u00edas que he probado. Los bocados exquisitos. Acabo de probar el masss . El oriental y el cerde\u00f1a!!!",
+                    "todo": {
+                        "count": 0
+                    },
+                    "type": "user",
+                    "user": {
+                        "firstName": "Sergio a Monroy",
+                        "gender": "male",
+                        "id": "35797673",
+                        "photo": {
+                            "prefix": "https://irs0.4sqi.net/img/user/",
+                            "suffix": "/35797673-2VTPTPX5Z5BE0OI2.jpg"
+                        }
+                    }
+                }
+            ],
+            "venue": {
+                "allowMenuUrlEdit": true,
+                "categories": [
+                    {
+                        "icon": {
+                            "prefix": "https://ss3.4sqi.net/img/categories_v2/food/winery_",
+                            "suffix": ".png"
+                        },
+                        "id": "4bf58dd8d48988d123941735",
+                        "name": "Bar de vinos",
+                        "pluralName": "Bares de vino",
+                        "primary": true,
+                        "shortName": "Bar de vinos"
+                    }
+                ],
+                "contact": {
+                    "facebook": "197296340343726",
+                    "formattedPhone": "+57 4 5815580",
+                    "phone": "+5745815580",
+                    "twitter": "lachapellefyd"
+                },
+                "hereNow": {
+                    "count": 0,
+                    "groups": [],
+                    "summary": "Nadie aqu\u00ed"
+                },
+                "hours": {
+                    "isOpen": false
+                },
+                "id": "4f13832be4b0725fedee00b0",
+                "location": {
+                    "address": "Carrera 25 # 3 - 45",
+                    "cc": "CO",
+                    "city": "Medell\u00edn",
+                    "country": "Colombia",
+                    "crossStreet": "Local 129",
+                    "formattedAddress": [
+                        "Carrera 25 # 3 - 45 (Local 129)",
+                        "Medell\u00edn, Antioquia",
+                        "Colombia"
+                    ],
+                    "lat": 6.1988940875592995,
+                    "lng": -75.55739900074973,
+                    "state": "Antioquia"
+                },
+                "name": "La Chapelle food & drinks",
+                "photos": {
+                    "count": 121,
+                    "groups": []
+                },
+                "price": {
+                    "currency": "$",
+                    "message": "Moderado",
+                    "tier": 2
+                },
+                "rating": 7.6,
+                "ratingSignals": 45,
+                "specials": {
+                    "count": 0,
+                    "items": []
+                },
+                "stats": {
+                    "checkinsCount": 410,
+                    "tipCount": 20,
+                    "usersCount": 193
+                },
+                "storeId": "",
+                "venuePage": {
+                    "id": "38547168"
+                },
+                "verified": true
+            }
+        }
+        {
+            "reasons": {
+                "count": 0,
+                "items": [
+                    {
+                        "reasonName": "globalInteractionReason",
+                        "summary": "Este lugar es popular",
+                        "type": "general"
+                    }
+                ]
+            },
+            "referralId": "e-0-4e30b53b6284d7ea10e0a2dc-18",
+            "tips": [
+                {
+                    "canonicalUrl": "https://foursquare.com/item/4e6abb19aeb7c31e4332f34a",
+                    "createdAt": 1315617561,
+                    "id": "4e6abb19aeb7c31e4332f34a",
+                    "likes": {
+                        "count": 5,
+                        "groups": [],
+                        "summary": "5 gustan"
+                    },
+                    "logView": true,
+                    "text": "Un lugar nuevo... Con la mejor cerveza artesanal Bogot\u00e1 beer company.. Recomendadimo",
+                    "todo": {
+                        "count": 2
+                    },
+                    "type": "user",
+                    "user": {
+                        "firstName": "Eli",
+                        "gender": "female",
+                        "id": "5726388",
+                        "lastName": "Betancur",
+                        "photo": {
+                            "prefix": "https://irs3.4sqi.net/img/user/",
+                            "suffix": "/5726388-QH1NERPTHMCIKVC4.jpg"
+                        }
+                    }
+                }
+            ],
+            "venue": {
+                "allowMenuUrlEdit": true,
+                "categories": [
+                    {
+                        "icon": {
+                            "prefix": "https://ss3.4sqi.net/img/categories_v2/nightlife/pub_",
+                            "suffix": ".png"
+                        },
+                        "id": "4bf58dd8d48988d116941735",
+                        "name": "Bar",
+                        "pluralName": "Bares",
+                        "primary": true,
+                        "shortName": "Bar"
+                    }
+                ],
+                "contact": {},
+                "hereNow": {
+                    "count": 0,
+                    "groups": [],
+                    "summary": "Nadie aqu\u00ed"
+                },
+                "hours": {
+                    "isOpen": true,
+                    "status": "Probablemente abierto"
+                },
+                "id": "4e30b53b6284d7ea10e0a2dc",
+                "location": {
+                    "address": "Calle 33 # 76 - 100",
+                    "cc": "CO",
+                    "city": "Medell\u00edn",
+                    "country": "Colombia",
+                    "crossStreet": "Calle 33",
+                    "formattedAddress": [
+                        "Calle 33 # 76 - 100 (Calle 33)",
+                        "Medell\u00edn, Antioquia",
+                        "Colombia"
+                    ],
+                    "lat": 6.238974,
+                    "lng": -75.597824,
+                    "state": "Antioquia"
+                },
+                "name": "Public House",
+                "photos": {
+                    "count": 46,
+                    "groups": []
+                },
+                "price": {
+                    "currency": "$",
+                    "message": "Moderado",
+                    "tier": 2
+                },
+                "rating": 7.4,
+                "ratingSignals": 43,
+                "specials": {
+                    "count": 0,
+                    "items": []
+                },
+                "stats": {
+                    "checkinsCount": 538,
+                    "tipCount": 29,
+                    "usersCount": 313
+                },
+                "verified": false
+            }
+        }
+        {
+            "reasons": {
+                "count": 0,
+                "items": [
+                    {
+                        "reasonName": "globalInteractionReason",
+                        "summary": "Este lugar es popular",
+                        "type": "general"
+                    }
+                ]
+            },
+            "referralId": "e-0-5223ccb98bbd729e37010de1-19",
+            "tips": [
+                {
+                    "canonicalUrl": "https://foursquare.com/item/522bd48911d26dea912b2133",
+                    "createdAt": 1378604169,
+                    "id": "522bd48911d26dea912b2133",
+                    "likes": {
+                        "count": 2,
+                        "groups": [],
+                        "summary": "2 gustan"
+                    },
+                    "logView": true,
+                    "text": "Excelente lugar para un par de polas!",
+                    "todo": {
+                        "count": 0
+                    },
+                    "type": "user",
+                    "user": {
+                        "firstName": "Alejo",
+                        "gender": "male",
+                        "id": "23692609",
+                        "lastName": "Higuita",
+                        "photo": {
+                            "prefix": "https://irs3.4sqi.net/img/user/",
+                            "suffix": "/23692609-S2CSWRDVN5BKCVDA.jpg"
+                        }
+                    }
+                }
+            ],
+            "venue": {
+                "allowMenuUrlEdit": true,
+                "categories": [
+                    {
+                        "icon": {
+                            "prefix": "https://ss3.4sqi.net/img/categories_v2/nightlife/pub_",
+                            "suffix": ".png"
+                        },
+                        "id": "4bf58dd8d48988d116941735",
+                        "name": "Bar",
+                        "pluralName": "Bares",
+                        "primary": true,
+                        "shortName": "Bar"
+                    }
+                ],
+                "contact": {
+                    "facebook": "377904629001763",
+                    "facebookName": "Revolucion rock",
+                    "formattedPhone": "+57 300 8900955",
+                    "phone": "+573008900955"
+                },
+                "hereNow": {
+                    "count": 0,
+                    "groups": [],
+                    "summary": "Nadie aqu\u00ed"
+                },
+                "hours": {
+                    "isOpen": true,
+                    "status": "Abierto hasta las 2:00"
+                },
+                "id": "5223ccb98bbd729e37010de1",
+                "location": {
+                    "address": "calle 49 # 29 -68",
+                    "cc": "CO",
+                    "city": "Medell\u00edn",
+                    "country": "Colombia",
+                    "formattedAddress": [
+                        "calle 49 # 29 -68",
+                        "Medell\u00edn, Antioquia",
+                        "Colombia"
+                    ],
+                    "lat": 6.240764389770385,
+                    "lng": -75.55248498916626,
+                    "state": "Antioquia"
+                },
+                "name": "Revolution Rock",
+                "photos": {
+                    "count": 4,
+                    "groups": []
+                },
+                "price": {
+                    "currency": "$",
+                    "message": "Moderado",
+                    "tier": 2
+                },
+                "rating": 7.6,
+                "ratingSignals": 8,
+                "specials": {
+                    "count": 1,
+                    "items": [
+                        {
+                            "description": "",
+                            "icon": "default",
+                            "id": "531f4d20498e932bf314014a",
+                            "interaction": {
+                                "entryUrl": "https://foursquare.com/device/specials/531f4d20498e932bf314014a?venueId=5223ccb98bbd729e37010de1"
+                            },
+                            "message": "FUTBOL EN PANTALLA GIGANTE \n RECUERDEN : POR CADA GOL DEL VERDE ,SU CUENTA TENDR\u00c1 UN DESCUENTO DEL 5 % DURANTE EL PARTIDO HOY 7.00PM",
+                            "page": {
+                                "bio": "",
+                                "contact": {
+                                    "facebook": "377904629001763"
+                                },
+                                "firstName": "Revolution Rock",
+                                "gender": "none",
+                                "homeCity": "Medell\u00edn, 02",
+                                "id": "69169373",
+                                "lists": {
+                                    "groups": [
+                                        {
+                                            "count": 2,
+                                            "items": [],
+                                            "type": "created"
+                                        }
+                                    ]
+                                },
+                                "photo": {
+                                    "prefix": "https://irs2.4sqi.net/img/user/",
+                                    "suffix": "/69169373-2SX2V0B4HUEFCQ1V.png"
+                                },
+                                "tips": {
+                                    "count": 5
+                                },
+                                "type": "venuePage",
+                                "venue": {
+                                    "id": "5223ccb98bbd729e37010de1"
+                                }
+                            },
+                            "photo": {
+                                "createdAt": 1378146636,
+                                "height": 960,
+                                "id": "5224d94c11d228d69727c714",
+                                "prefix": "https://irs0.4sqi.net/img/general/",
+                                "suffix": "/23692609_eWAJscP1OyFHE3LZq2r6Xuh0qoWvbjWlRG5lz9schyo.jpg",
+                                "width": 720
+                            },
+                            "provider": "foursquare",
+                            "redemption": "webview",
+                            "state": "unlocked",
+                            "title": "Special",
+                            "type": "frequency",
+                            "unlocked": true
+                        }
+                    ]
+                },
+                "stats": {
+                    "checkinsCount": 34,
+                    "tipCount": 2,
+                    "usersCount": 12
+                },
+                "venuePage": {
+                    "id": "69169373"
+                },
+                "verified": true
+            }
+        }
+        {
+            "reasons": {
+                "count": 0,
+                "items": [
+                    {
+                        "reasonName": "globalInteractionReason",
+                        "summary": "Este lugar es popular",
+                        "type": "general"
+                    }
+                ]
+            },
+            "referralId": "e-0-4e06a23dae60a90eabc4887d-20",
+            "tips": [
+                {
+                    "canonicalUrl": "https://foursquare.com/item/53646e44498e9771d875085e",
+                    "createdAt": 1399090756,
+                    "id": "53646e44498e9771d875085e",
+                    "logView": true,
+                    "text": "Solo salsa brava",
+                    "todo": {
+                        "count": 0
+                    },
+                    "type": "user",
+                    "user": {
+                        "firstName": "Felipe",
+                        "gender": "male",
+                        "id": "39555957",
+                        "lastName": "Marin",
+                        "photo": {
+                            "prefix": "https://irs3.4sqi.net/img/user/",
+                            "suffix": "/39555957-KV0YGHKKUAUTX201.jpg"
+                        }
+                    }
+                }
+            ],
+            "venue": {
+                "allowMenuUrlEdit": true,
+                "categories": [
+                    {
+                        "icon": {
+                            "prefix": "https://ss3.4sqi.net/img/categories_v2/nightlife/pub_",
+                            "suffix": ".png"
+                        },
+                        "id": "4bf58dd8d48988d116941735",
+                        "name": "Bar",
+                        "pluralName": "Bares",
+                        "primary": true,
+                        "shortName": "Bar"
+                    }
+                ],
+                "contact": {},
+                "hereNow": {
+                    "count": 0,
+                    "groups": [],
+                    "summary": "Nadie aqu\u00ed"
+                },
+                "id": "4e06a23dae60a90eabc4887d",
+                "location": {
+                    "cc": "CO",
+                    "city": "Medell\u00edn",
+                    "country": "Colombia",
+                    "formattedAddress": [
+                        "Medell\u00edn, Antioquia",
+                        "Colombia"
+                    ],
+                    "lat": 6.208828,
+                    "lng": -75.566832,
+                    "state": "Antioquia"
+                },
+                "name": "Buenavista",
+                "photos": {
+                    "count": 5,
+                    "groups": []
+                },
+                "price": {
+                    "currency": "$",
+                    "message": "Moderado",
+                    "tier": 2
+                },
+                "rating": 7.4,
+                "ratingSignals": 11,
+                "specials": {
+                    "count": 0,
+                    "items": []
+                },
+                "stats": {
+                    "checkinsCount": 138,
+                    "tipCount": 3,
+                    "usersCount": 108
+                },
+                "verified": false
+            }
+        }
+        {
+            "reasons": {
+                "count": 0,
+                "items": [
+                    {
+                        "reasonName": "globalInteractionReason",
+                        "summary": "Este lugar es popular",
+                        "type": "general"
+                    }
+                ]
+            },
+            "referralId": "e-0-4dc495a3e4cd169dc6378199-21",
+            "tips": [
+                {
+                    "canonicalUrl": "https://foursquare.com/item/5431da05498eb82750dbae26",
+                    "createdAt": 1412553221,
+                    "id": "5431da05498eb82750dbae26",
+                    "logView": true,
+                    "text": "Ambiente antiguo, esencial para bailar, musica en vivo, buenos bailarines",
+                    "todo": {
+                        "count": 0
+                    },
+                    "type": "user",
+                    "user": {
+                        "firstName": "Ana",
+                        "gender": "female",
+                        "id": "10488835",
+                        "lastName": "Alvarez",
+                        "photo": {
+                            "prefix": "https://irs2.4sqi.net/img/user/",
+                            "suffix": "/10488835-VEW2UQ1UITBE2W4R.jpg"
+                        }
+                    }
+                }
+            ],
+            "venue": {
+                "allowMenuUrlEdit": true,
+                "categories": [
+                    {
+                        "icon": {
+                            "prefix": "https://ss3.4sqi.net/img/categories_v2/nightlife/pub_",
+                            "suffix": ".png"
+                        },
+                        "id": "4bf58dd8d48988d116941735",
+                        "name": "Bar",
+                        "pluralName": "Bares",
+                        "primary": true,
+                        "shortName": "Bar"
+                    }
+                ],
+                "contact": {},
+                "hereNow": {
+                    "count": 0,
+                    "groups": [],
+                    "summary": "Nadie aqu\u00ed"
+                },
+                "id": "4dc495a3e4cd169dc6378199",
+                "location": {
+                    "address": "Cra 51 45-80",
+                    "cc": "CO",
+                    "city": "Medell\u00edn",
+                    "country": "Colombia",
+                    "formattedAddress": [
+                        "Cra 51 45-80",
+                        "Medell\u00edn, Antioquia",
+                        "Colombia"
+                    ],
+                    "lat": 6.246650607570045,
+                    "lng": -75.570002976612,
+                    "state": "Antioquia"
+                },
+                "name": "Sal\u00f3n M\u00e1laga",
+                "photos": {
+                    "count": 26,
+                    "groups": []
+                },
+                "price": {
+                    "currency": "$",
+                    "message": "Moderado",
+                    "tier": 2
+                },
+                "rating": 7.4,
+                "ratingSignals": 17,
+                "specials": {
+                    "count": 0,
+                    "items": []
+                },
+                "stats": {
+                    "checkinsCount": 150,
+                    "tipCount": 1,
+                    "usersCount": 116
+                },
+                "verified": false
+            }
+        }
+        {
+            "reasons": {
+                "count": 0,
+                "items": [
+                    {
+                        "reasonName": "globalInteractionReason",
+                        "summary": "Este lugar es popular",
+                        "type": "general"
+                    }
+                ]
+            },
+            "referralId": "e-0-4dcf431922718eed7a4eadfd-22",
+            "tips": [
+                {
+                    "canonicalUrl": "https://foursquare.com/item/52504647498ec9aa759ebe15",
+                    "createdAt": 1380992583,
+                    "id": "52504647498ec9aa759ebe15",
+                    "likes": {
+                        "count": 4,
+                        "groups": [],
+                        "summary": "4 gustan"
+                    },
+                    "logView": true,
+                    "text": "Cita obligada de cada viernes.. Colocan las canciones que son ! pa cantar y cantar.... Los administradores son un parche, buen servicio, agradable lugar",
+                    "todo": {
+                        "count": 0
+                    },
+                    "type": "user",
+                    "user": {
+                        "firstName": "Andres",
+                        "gender": "male",
+                        "id": "17618289",
+                        "lastName": "Perez",
+                        "photo": {
+                            "prefix": "https://irs3.4sqi.net/img/user/",
+                            "suffix": "/17618289-WMI0KZWKIEFF2ZPM.jpg"
+                        }
+                    }
+                }
+            ],
+            "venue": {
+                "allowMenuUrlEdit": true,
+                "categories": [
+                    {
+                        "icon": {
+                            "prefix": "https://ss3.4sqi.net/img/categories_v2/nightlife/pub_",
+                            "suffix": ".png"
+                        },
+                        "id": "4bf58dd8d48988d116941735",
+                        "name": "Bar",
+                        "pluralName": "Bares",
+                        "primary": true,
+                        "shortName": "Bar"
+                    }
+                ],
+                "contact": {},
+                "hereNow": {
+                    "count": 0,
+                    "groups": [],
+                    "summary": "Nadie aqu\u00ed"
+                },
+                "hours": {
+                    "isOpen": false
+                },
+                "id": "4dcf431922718eed7a4eadfd",
+                "location": {
+                    "cc": "CO",
+                    "city": "Medell\u00edn",
+                    "country": "Colombia",
+                    "formattedAddress": [
+                        "Medell\u00edn, Antioquia",
+                        "Colombia"
+                    ],
+                    "lat": 6.210394073802878,
+                    "lng": -75.57107742009019,
+                    "state": "Antioquia"
+                },
+                "name": "Galer\u00eda de la Fama",
+                "photos": {
+                    "count": 14,
+                    "groups": []
+                },
+                "price": {
+                    "currency": "$",
+                    "message": "Moderado",
+                    "tier": 2
+                },
+                "rating": 7.4,
+                "ratingSignals": 26,
+                "specials": {
+                    "count": 0,
+                    "items": []
+                },
+                "stats": {
+                    "checkinsCount": 294,
+                    "tipCount": 7,
+                    "usersCount": 164
+                },
+                "verified": false
+            }
+        }
+        {
+            "reasons": {
+                "count": 0,
+                "items": [
+                    {
+                        "reasonName": "globalInteractionReason",
+                        "summary": "Este lugar es popular",
+                        "type": "general"
+                    }
+                ]
+            },
+            "referralId": "e-0-4c5ed5332815c9288a89b867-23",
+            "tips": [
+                {
+                    "canonicalUrl": "https://foursquare.com/item/51d6295e498ee6c49093c04a",
+                    "createdAt": 1372989790,
+                    "entities": [
+                        {
+                            "indices": [
+                                9,
+                                12
+                            ],
+                            "type": "search_match"
+                        }
+                    ],
+                    "id": "51d6295e498ee6c49093c04a",
+                    "likes": {
+                        "count": 2,
+                        "groups": [],
+                        "summary": "2 gustan"
+                    },
+                    "logView": true,
+                    "text": "The best bar & restaurant in town!",
+                    "todo": {
+                        "count": 0
+                    },
+                    "type": "user",
+                    "user": {
+                        "firstName": "Ivan",
+                        "gender": "male",
+                        "id": "59248427",
+                        "lastName": "Cordero Gutierrez",
+                        "photo": {
+                            "default": true,
+                            "prefix": "https://irs0.4sqi.net/img/user/",
+                            "suffix": "/blank_boy.png"
+                        }
+                    }
+                }
+            ],
+            "venue": {
+                "allowMenuUrlEdit": true,
+                "categories": [
+                    {
+                        "icon": {
+                            "prefix": "https://ss3.4sqi.net/img/categories_v2/nightlife/pub_",
+                            "suffix": ".png"
+                        },
+                        "id": "4bf58dd8d48988d116941735",
+                        "name": "Bar",
+                        "pluralName": "Bares",
+                        "primary": true,
+                        "shortName": "Bar"
+                    }
+                ],
+                "contact": {
+                    "formattedPhone": "+57 4 3520619",
+                    "phone": "+5743520619",
+                    "twitter": "hardrockcol"
+                },
+                "hereNow": {
+                    "count": 0,
+                    "groups": [],
+                    "summary": "Nadie aqu\u00ed"
+                },
+                "hours": {
+                    "isOpen": true,
+                    "status": "Probablemente abierto"
+                },
+                "id": "4c5ed5332815c9288a89b867",
+                "location": {
+                    "address": "Calle 5 Sur # 42 - 51",
+                    "cc": "CO",
+                    "city": "Medell\u00edn",
+                    "country": "Colombia",
+                    "crossStreet": "42 - 51",
+                    "formattedAddress": [
+                        "Calle 5 Sur # 42 - 51 (42 - 51)",
+                        "Medell\u00edn, Antioquia",
+                        "Colombia"
+                    ],
+                    "lat": 6.199575659466715,
+                    "lng": -75.57321491402617,
+                    "state": "Antioquia"
+                },
+                "name": "Hard Rock Caf\u00e9 Medell\u00edn",
+                "photos": {
+                    "count": 740,
+                    "groups": []
+                },
+                "price": {
+                    "currency": "$",
+                    "message": "Caro",
+                    "tier": 3
+                },
+                "rating": 8.7,
+                "ratingSignals": 534,
+                "specials": {
+                    "count": 0,
+                    "items": []
+                },
+                "stats": {
+                    "checkinsCount": 5433,
+                    "tipCount": 155,
+                    "usersCount": 3537
+                },
+                "url": "http://www.hardrock.com/cafes/medellin/",
+                "verified": false
+            }
+        }
+        {
+            "reasons": {
+                "count": 0,
+                "items": [
+                    {
+                        "reasonName": "globalInteractionReason",
+                        "summary": "Este lugar es popular",
+                        "type": "general"
+                    }
+                ]
+            },
+            "referralId": "e-0-4de6b1cdb3ad5cc99609667b-24",
+            "tips": [
+                {
+                    "canonicalUrl": "https://foursquare.com/item/4e99de1d003916c2228aff47",
+                    "createdAt": 1318706717,
+                    "id": "4e99de1d003916c2228aff47",
+                    "likes": {
+                        "count": 5,
+                        "groups": [],
+                        "summary": "5 gustan"
+                    },
+                    "logView": true,
+                    "text": "Si quiere bailar salsa toda la noche, no deje de ir a este sitio...",
+                    "todo": {
+                        "count": 1
+                    },
+                    "type": "user",
+                    "user": {
+                        "firstName": "Mar\u00eda",
+                        "gender": "female",
+                        "id": "14858964",
+                        "lastName": "Boisson",
+                        "photo": {
+                            "prefix": "https://irs3.4sqi.net/img/user/",
+                            "suffix": "/A2FF3DB3DBEQZWN2.jpg"
+                        }
+                    }
+                }
+            ],
+            "venue": {
+                "allowMenuUrlEdit": true,
+                "categories": [
+                    {
+                        "icon": {
+                            "prefix": "https://ss3.4sqi.net/img/categories_v2/nightlife/pub_",
+                            "suffix": ".png"
+                        },
+                        "id": "4bf58dd8d48988d116941735",
+                        "name": "Bar",
+                        "pluralName": "Bares",
+                        "primary": true,
+                        "shortName": "Bar"
+                    }
+                ],
+                "contact": {},
+                "hereNow": {
+                    "count": 0,
+                    "groups": [],
+                    "summary": "Nadie aqu\u00ed"
+                },
+                "hours": {
+                    "isOpen": false
+                },
+                "id": "4de6b1cdb3ad5cc99609667b",
+                "location": {
+                    "address": "Cll 53 Cr 42",
+                    "cc": "CO",
+                    "city": "Medell\u00edn",
+                    "country": "Colombia",
+                    "crossStreet": "Cerca al parque del periodista",
+                    "formattedAddress": [
+                        "Cll 53 Cr 42 (Cerca al parque del periodista)",
+                        "Medell\u00edn, Antioquia",
+                        "Colombia"
+                    ],
+                    "lat": 6.248933911857977,
+                    "lng": -75.56169033050537,
+                    "state": "Antioquia"
+                },
+                "name": "El Eslab\u00f3n Prendido",
+                "photos": {
+                    "count": 15,
+                    "groups": []
+                },
+                "price": {
+                    "currency": "$",
+                    "message": "Moderado",
+                    "tier": 2
+                },
+                "rating": 7.4,
+                "ratingSignals": 24,
+                "specials": {
+                    "count": 0,
+                    "items": []
+                },
+                "stats": {
+                    "checkinsCount": 291,
+                    "tipCount": 11,
+                    "usersCount": 177
+                },
+                "verified": false
+            }
+        }
+        {
+            "reasons": {
+                "count": 0,
+                "items": [
+                    {
+                        "reasonName": "globalInteractionReason",
+                        "summary": "Este lugar es popular",
+                        "type": "general"
+                    }
+                ]
+            },
+            "referralId": "e-0-4dfd877062846d918b983f7f-25",
+            "tips": [
+                {
+                    "canonicalUrl": "https://foursquare.com/item/5101b0d3e4b020383fa966d5",
+                    "createdAt": 1359065299,
+                    "id": "5101b0d3e4b020383fa966d5",
+                    "likes": {
+                        "count": 5,
+                        "groups": [],
+                        "summary": "5 gustan"
+                    },
+                    "logView": true,
+                    "text": "Parche bueno, ama\u00f1ador y barato. Recomendado para tardear.",
+                    "todo": {
+                        "count": 0
+                    },
+                    "type": "user",
+                    "user": {
+                        "firstName": "andres",
+                        "gender": "male",
+                        "id": "1431384",
+                        "lastName": "durango",
+                        "photo": {
+                            "prefix": "https://irs1.4sqi.net/img/user/",
+                            "suffix": "/1431384-YPOFPZ42NGP1SAEV.jpg"
+                        }
+                    }
+                }
+            ],
+            "venue": {
+                "allowMenuUrlEdit": true,
+                "categories": [
+                    {
+                        "icon": {
+                            "prefix": "https://ss3.4sqi.net/img/categories_v2/nightlife/pub_",
+                            "suffix": ".png"
+                        },
+                        "id": "4bf58dd8d48988d116941735",
+                        "name": "Bar",
+                        "pluralName": "Bares",
+                        "primary": true,
+                        "shortName": "Bar"
+                    }
+                ],
+                "contact": {
+                    "formattedPhone": "+57 4 4125019",
+                    "phone": "+5744125019"
+                },
+                "hereNow": {
+                    "count": 0,
+                    "groups": [],
+                    "summary": "Nadie aqu\u00ed"
+                },
+                "hours": {
+                    "isOpen": true,
+                    "status": "Probablemente abierto"
+                },
+                "id": "4dfd877062846d918b983f7f",
+                "location": {
+                    "address": "Carrera 80",
+                    "cc": "CO",
+                    "city": "Medell\u00edn",
+                    "country": "Colombia",
+                    "formattedAddress": [
+                        "Carrera 80",
+                        "Medell\u00edn, Antioquia",
+                        "Colombia"
+                    ],
+                    "lat": 6.240629241661381,
+                    "lng": -75.60301153543895,
+                    "state": "Antioquia"
+                },
+                "name": "El Vi\u00f1al",
+                "photos": {
+                    "count": 30,
+                    "groups": []
+                },
+                "price": {
+                    "currency": "$",
+                    "message": "Moderado",
+                    "tier": 2
+                },
+                "rating": 7.2,
+                "ratingSignals": 27,
+                "specials": {
+                    "count": 0,
+                    "items": []
+                },
+                "stats": {
+                    "checkinsCount": 529,
+                    "tipCount": 6,
+                    "usersCount": 224
+                },
+                "verified": false
+            }
+        }
+        {
+            "reasons": {
+                "count": 0,
+                "items": [
+                    {
+                        "reasonName": "globalInteractionReason",
+                        "summary": "Este lugar es popular",
+                        "type": "general"
+                    }
+                ]
+            },
+            "referralId": "e-0-4e321c676284e2699944064b-26",
+            "tips": [
+                {
+                    "canonicalUrl": "https://foursquare.com/item/5494ef36498ea1645f558b78",
+                    "createdAt": 1419046710,
+                    "id": "5494ef36498ea1645f558b78",
+                    "likes": {
+                        "count": 1,
+                        "groups": [],
+                        "summary": "1 me gusta"
+                    },
+                    "logView": true,
+                    "text": "Muy buenas crispetas",
+                    "todo": {
+                        "count": 0
+                    },
+                    "type": "user",
+                    "user": {
+                        "firstName": "Carlos Alberto",
+                        "gender": "male",
+                        "id": "16822526",
+                        "lastName": "Vasquez Morales",
+                        "photo": {
+                            "prefix": "https://irs0.4sqi.net/img/user/",
+                            "suffix": "/GOGHZL4DNEPV1V2B.jpg"
+                        }
+                    }
+                }
+            ],
+            "venue": {
+                "allowMenuUrlEdit": true,
+                "categories": [
+                    {
+                        "icon": {
+                            "prefix": "https://ss3.4sqi.net/img/categories_v2/nightlife/pub_",
+                            "suffix": ".png"
+                        },
+                        "id": "4bf58dd8d48988d116941735",
+                        "name": "Bar",
+                        "pluralName": "Bares",
+                        "primary": true,
+                        "shortName": "Bar"
+                    }
+                ],
+                "contact": {},
+                "hereNow": {
+                    "count": 0,
+                    "groups": [],
+                    "summary": "Nadie aqu\u00ed"
+                },
+                "id": "4e321c676284e2699944064b",
+                "location": {
+                    "cc": "CO",
+                    "city": "Medell\u00edn",
+                    "country": "Colombia",
+                    "formattedAddress": [
+                        "Medell\u00edn, Antioquia",
+                        "Colombia"
+                    ],
+                    "lat": 6.233520968578132,
+                    "lng": -75.58101423038262,
+                    "state": "Antioquia"
+                },
+                "name": "Hamburgo",
+                "photos": {
+                    "count": 45,
+                    "groups": []
+                },
+                "price": {
+                    "currency": "$",
+                    "message": "Moderado",
+                    "tier": 2
+                },
+                "rating": 7.1,
+                "ratingSignals": 14,
+                "specials": {
+                    "count": 0,
+                    "items": []
+                },
+                "stats": {
+                    "checkinsCount": 219,
+                    "tipCount": 9,
+                    "usersCount": 101
+                },
+                "verified": false
+            }
+        }
+        {
+            "reasons": {
+                "count": 0,
+                "items": [
+                    {
+                        "reasonName": "globalInteractionReason",
+                        "summary": "Este lugar es popular",
+                        "type": "general"
+                    }
+                ]
+            },
+            "referralId": "e-0-4deafa7152b11677f04b59db-27",
+            "tips": [
+                {
+                    "canonicalUrl": "https://foursquare.com/item/52e47425498e1488ecebb964",
+                    "createdAt": 1390703653,
+                    "id": "52e47425498e1488ecebb964",
+                    "likes": {
+                        "count": 1,
+                        "groups": [],
+                        "summary": "1 me gusta"
+                    },
+                    "logView": true,
+                    "text": "Deliciosa la cerveza envenenada con vodka y sandia. Salud!!!!",
+                    "todo": {
+                        "count": 0
+                    },
+                    "type": "user",
+                    "user": {
+                        "firstName": "Laura",
+                        "gender": "female",
+                        "id": "64772055",
+                        "lastName": "Maya",
+                        "photo": {
+                            "prefix": "https://irs2.4sqi.net/img/user/",
+                            "suffix": "/2RC1T12ZUYBIGDMQ.jpg"
+                        }
+                    }
+                }
+            ],
+            "venue": {
+                "allowMenuUrlEdit": true,
+                "categories": [
+                    {
+                        "icon": {
+                            "prefix": "https://ss3.4sqi.net/img/categories_v2/nightlife/pub_",
+                            "suffix": ".png"
+                        },
+                        "id": "4bf58dd8d48988d116941735",
+                        "name": "Bar",
+                        "pluralName": "Bares",
+                        "primary": true,
+                        "shortName": "Bar"
+                    }
+                ],
+                "contact": {},
+                "hereNow": {
+                    "count": 0,
+                    "groups": [],
+                    "summary": "Nadie aqu\u00ed"
+                },
+                "id": "4deafa7152b11677f04b59db",
+                "location": {
+                    "address": "Via Primavera",
+                    "cc": "CO",
+                    "city": "Medell\u00edn",
+                    "country": "Colombia",
+                    "formattedAddress": [
+                        "Via Primavera",
+                        "Medell\u00edn, Antioquia",
+                        "Colombia"
+                    ],
+                    "lat": 6.208487,
+                    "lng": -75.566908,
+                    "state": "Antioquia"
+                },
+                "name": "Porto",
+                "photos": {
+                    "count": 21,
+                    "groups": []
+                },
+                "price": {
+                    "currency": "$",
+                    "message": "Moderado",
+                    "tier": 2
+                },
+                "rating": 7.2,
+                "ratingSignals": 13,
+                "specials": {
+                    "count": 0,
+                    "items": []
+                },
+                "stats": {
+                    "checkinsCount": 180,
+                    "tipCount": 3,
+                    "usersCount": 131
+                },
+                "verified": false
+            }
+        }
+        {
+            "reasons": {
+                "count": 0,
+                "items": [
+                    {
+                        "reasonName": "globalInteractionReason",
+                        "summary": "Este lugar es popular",
+                        "type": "general"
+                    }
+                ]
+            },
+            "referralId": "e-0-4b86c075f964a520cb9a31e3-28",
+            "tips": [
+                {
+                    "canonicalUrl": "https://foursquare.com/item/4d2e10e8817a2d431c89144c",
+                    "createdAt": 1294864616,
+                    "id": "4d2e10e8817a2d431c89144c",
+                    "likes": {
+                        "count": 5,
+                        "groups": [],
+                        "summary": "5 gustan"
+                    },
+                    "logView": true,
+                    "text": "Es el sitio de las ni\u00f1as lindas, es el lugar de los cocteles y la rica comida",
+                    "todo": {
+                        "count": 0
+                    },
+                    "type": "user",
+                    "url": "http://www.planb.com.co/medellin/rumba-medellin/sucursal/el-deck/35831",
+                    "user": {
+                        "firstName": "PlanB",
+                        "gender": "male",
+                        "id": "1291505",
+                        "lastName": ".com.co",
+                        "photo": {
+                            "prefix": "https://irs2.4sqi.net/img/user/",
+                            "suffix": "/433QXR0RJVLBFCNM.jpg"
+                        }
+                    }
+                }
+            ],
+            "venue": {
+                "allowMenuUrlEdit": true,
+                "categories": [
+                    {
+                        "icon": {
+                            "prefix": "https://ss3.4sqi.net/img/categories_v2/nightlife/pub_",
+                            "suffix": ".png"
+                        },
+                        "id": "4bf58dd8d48988d116941735",
+                        "name": "Bar",
+                        "pluralName": "Bares",
+                        "primary": true,
+                        "shortName": "Bar"
+                    }
+                ],
+                "contact": {},
+                "hereNow": {
+                    "count": 0,
+                    "groups": [],
+                    "summary": "Nadie aqu\u00ed"
+                },
+                "hours": {
+                    "isOpen": false
+                },
+                "id": "4b86c075f964a520cb9a31e3",
+                "location": {
+                    "address": "Cr 40 # 10",
+                    "cc": "CO",
+                    "city": "Medell\u00edn",
+                    "country": "Colombia",
+                    "formattedAddress": [
+                        "Cr 40 # 10",
+                        "Medell\u00edn, Antioquia",
+                        "Colombia"
+                    ],
+                    "lat": 6.209844902932365,
+                    "lng": -75.56774139404297,
+                    "state": "Antioquia"
+                },
+                "name": "El Deck",
+                "photos": {
+                    "count": 50,
+                    "groups": []
+                },
+                "price": {
+                    "currency": "$",
+                    "message": "Moderado",
+                    "tier": 2
+                },
+                "rating": 7.2,
+                "ratingSignals": 61,
+                "specials": {
+                    "count": 0,
+                    "items": []
+                },
+                "stats": {
+                    "checkinsCount": 770,
+                    "tipCount": 13,
+                    "usersCount": 473
+                },
+                "verified": false
+            }
+        }
+        {
+            "reasons": {
+                "count": 0,
+                "items": [
+                    {
+                        "reasonName": "globalInteractionReason",
+                        "summary": "Este lugar es popular",
+                        "type": "general"
+                    }
+                ]
+            },
+            "referralId": "e-0-4d3f5b05467754810eea4df4-29",
+            "tips": [
+                {
+                    "canonicalUrl": "https://foursquare.com/item/5179a242e4b01b69f56632ed",
+                    "createdAt": 1366925890,
+                    "entities": [
+                        {
+                            "indices": [
+                                28,
+                                31
+                            ],
+                            "type": "search_match"
+                        }
+                    ],
+                    "id": "5179a242e4b01b69f56632ed",
+                    "logView": true,
+                    "text": "Un caf\u00e9 de Las Guaduas Caf\u00e9 Bar para este clima",
+                    "todo": {
+                        "count": 0
+                    },
+                    "type": "user",
+                    "user": {
+                        "firstName": "Daniela",
+                        "gender": "female",
+                        "id": "45009020",
+                        "lastName": "Bohorquez Giraldo",
+                        "photo": {
+                            "prefix": "https://irs2.4sqi.net/img/user/",
+                            "suffix": "/B4I2QYZGKS0LGSNA.jpg"
+                        }
+                    }
+                }
+            ],
+            "venue": {
+                "allowMenuUrlEdit": true,
+                "categories": [
+                    {
+                        "icon": {
+                            "prefix": "https://ss3.4sqi.net/img/categories_v2/travel/hotel_",
+                            "suffix": ".png"
+                        },
+                        "id": "4bf58dd8d48988d1fa931735",
+                        "name": "Hotel",
+                        "pluralName": "Hoteles",
+                        "primary": true,
+                        "shortName": "Hotel"
+                    }
+                ],
+                "contact": {
+                    "facebook": "129902427042904",
+                    "facebookName": "Diez Hotel Medellin",
+                    "facebookUsername": "diez.hotel.categoria.colombia",
+                    "formattedPhone": "+57 4 4481034",
+                    "phone": "+5744481034",
+                    "twitter": "diezhotel"
+                },
+                "hereNow": {
+                    "count": 0,
+                    "groups": [],
+                    "summary": "Nadie aqu\u00ed"
+                },
+                "hours": {
+                    "isOpen": true,
+                    "status": "Abierto hasta las Medianoche"
+                },
+                "id": "4d3f5b05467754810eea4df4",
+                "location": {
+                    "address": "Calle 10A No. 34-11",
+                    "cc": "CO",
+                    "city": "Medell\u00edn",
+                    "country": "Colombia",
+                    "crossStreet": "Calle 10 Zona Rosa, El Poblado",
+                    "formattedAddress": [
+                        "Calle 10A No. 34-11 (Calle 10 Zona Rosa, El Poblado)",
+                        "Medell\u00edn, Antioquia",
+                        "Colombia"
+                    ],
+                    "lat": 6.208954855730208,
+                    "lng": -75.56512524604265,
+                    "state": "Antioquia"
+                },
+                "name": "Diez Hotel Categor\u00eda Colombia",
+                "photos": {
+                    "count": 220,
+                    "groups": []
+                },
+                "rating": 8.5,
+                "ratingSignals": 122,
+                "specials": {
+                    "count": 3,
+                    "items": [
+                        {
+                            "description": "",
+                            "finePrint": "Aplica solo para alojamiento en Diez Hotel Categoria Colombia.\n\nAplican condiciones y restricciones, no es acumulable con otras promociones.",
+                            "icon": "default",
+                            "id": "5162f51083028469e272b29c",
+                            "interaction": {
+                                "entryUrl": "https://foursquare.com/device/specials/5162f51083028469e272b29c?venueId=4d3f5b05467754810eea4df4"
+                            },
+                            "message": "Te obsequiamos una Bebida de Bienvenida cuando hagas check in.",
+                            "page": {
+                                "bio": "",
+                                "contact": {
+                                    "facebook": "129902427042904",
+                                    "twitter": "diezhotel"
+                                },
+                                "firstName": "Diez Hotel Categor\u00eda Colombia",
+                                "gender": "none",
+                                "homeCity": "",
+                                "id": "38692481",
+                                "lists": {
+                                    "groups": [
+                                        {
+                                            "count": 2,
+                                            "items": [],
+                                            "type": "created"
+                                        }
+                                    ]
+                                },
+                                "photo": {
+                                    "prefix": "https://irs2.4sqi.net/img/user/",
+                                    "suffix": "/38692481-LHOPTX10GQGRA4HU.png"
+                                },
+                                "tips": {
+                                    "count": 11
+                                },
+                                "type": "venuePage",
+                                "venue": {
+                                    "id": "4d3f5b05467754810eea4df4"
+                                }
+                            },
+                            "provider": "foursquare",
+                            "redemption": "webview",
+                            "state": "unlocked",
+                            "title": "Special",
+                            "type": "frequency",
+                            "unlocked": true
+                        },
+                        {
+                            "description": "",
+                            "finePrint": "Aplica solo para alojamiento en Diez Hotel Categor\u00eda Colombia. Aplican condiciones y restricciones, no es acumulable con otras promociones.",
+                            "icon": "default",
+                            "id": "5162f61c83028469e2749678",
+                            "interaction": {
+                                "entryUrl": "https://foursquare.com/device/specials/5162f61c83028469e2749678?venueId=4d3f5b05467754810eea4df4"
+                            },
+                            "message": "Hacer check in en nuestro Cafe Bar Las Guaduas te permite comprar un pastel o un postre y recibir completamente gratis el cafe.",
+                            "page": {
+                                "bio": "",
+                                "contact": {
+                                    "facebook": "129902427042904",
+                                    "twitter": "diezhotel"
+                                },
+                                "firstName": "Diez Hotel Categor\u00eda Colombia",
+                                "gender": "none",
+                                "homeCity": "",
+                                "id": "38692481",
+                                "lists": {
+                                    "groups": [
+                                        {
+                                            "count": 2,
+                                            "items": [],
+                                            "type": "created"
+                                        }
+                                    ]
+                                },
+                                "photo": {
+                                    "prefix": "https://irs2.4sqi.net/img/user/",
+                                    "suffix": "/38692481-LHOPTX10GQGRA4HU.png"
+                                },
+                                "tips": {
+                                    "count": 11
+                                },
+                                "type": "venuePage",
+                                "venue": {
+                                    "id": "4d3f5b05467754810eea4df4"
+                                }
+                            },
+                            "provider": "foursquare",
+                            "redemption": "webview",
+                            "state": "unlocked",
+                            "title": "Special",
+                            "type": "frequency",
+                            "unlocked": true
+                        },
+                        {
+                            "description": "",
+                            "finePrint": "Para reclamar tu cortesia debes hacer check in y dejar un tip que le ayude a tus amigos para que vengan a visitarnos.",
+                            "icon": "default",
+                            "id": "523898f2bce67ddf9ab44461",
+                            "interaction": {
+                                "entryUrl": "https://foursquare.com/device/specials/523898f2bce67ddf9ab44461?venueId=4d3f5b05467754810eea4df4"
+                            },
+                            "message": "El postre o una copa de vino de cortesia, seguro te animar\u00e1.\n\nDebes hacer check in y dejar un tip acerca de nuestro Diez Restaurante Bar.",
+                            "page": {
+                                "bio": "",
+                                "contact": {
+                                    "facebook": "129902427042904",
+                                    "twitter": "diezhotel"
+                                },
+                                "firstName": "Diez Hotel Categor\u00eda Colombia",
+                                "gender": "none",
+                                "homeCity": "",
+                                "id": "38692481",
+                                "lists": {
+                                    "groups": [
+                                        {
+                                            "count": 2,
+                                            "items": [],
+                                            "type": "created"
+                                        }
+                                    ]
+                                },
+                                "photo": {
+                                    "prefix": "https://irs2.4sqi.net/img/user/",
+                                    "suffix": "/38692481-LHOPTX10GQGRA4HU.png"
+                                },
+                                "tips": {
+                                    "count": 11
+                                },
+                                "type": "venuePage",
+                                "venue": {
+                                    "id": "4d3f5b05467754810eea4df4"
+                                }
+                            },
+                            "provider": "foursquare",
+                            "redemption": "webview",
+                            "state": "unlocked",
+                            "title": "Special",
+                            "type": "frequency",
+                            "unlocked": true
+                        }
+                    ]
+                },
+                "stats": {
+                    "checkinsCount": 2465,
+                    "tipCount": 78,
+                    "usersCount": 1321
+                },
+                "storeId": "",
+                "url": "http://www.diezhotel.com",
+                "venuePage": {
+                    "id": "38692481"
+                },
+                "verified": true
+            }
+        }
+
